@@ -7,9 +7,11 @@ assignees: ''
 
 ---
 
-**Sentence with a typo**
+**Typo**
+Sentence with a typo here
 
 **Edition of the book**
+First edition
 
 **Additional context**
-Add any other context about the problem here.
+Add any other context about the typo here.
