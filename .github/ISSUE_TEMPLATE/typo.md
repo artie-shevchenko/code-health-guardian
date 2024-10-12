@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Page**
+Page number here
+
 **Typo**
 Sentence with a typo here
 
