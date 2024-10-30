@@ -3,7 +3,7 @@ layout: post
 title: "Announcing Code Health Guardian: The Old-New Role of Human Programmers in the AI Era"
 date: 2024-10-30 00:00:00 +0
 author: Artie Shevchenko
-categories: [Book, Launch]
+categories: [Book]
 ---
 
 I am thrilled to announce the launch of my new book, *Code Health Guardian*, which was designed to prepare software engineers for the upcoming changes in their duties. As AI reshapes the tech industry, how can we ensure our skills remain indispensable? It’s unlikely that attempting to pivot and rapidly become AI experts, as some suggest, is the best strategy for most of us. After all, AI development and integration appear to be tasks perfectly suited for AI itself. Instead of trying to beat AI agents at their own game, I believe a far better approach is to grow faster and deepen our expertise in managing code complexity, which is the topic of this book. Complex reasoning is hard for AI, and in programming, that’s the most intellectually challenging problem—keeping our codebases reasonably simple.
