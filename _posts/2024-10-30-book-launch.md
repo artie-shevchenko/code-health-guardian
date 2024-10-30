@@ -2,6 +2,7 @@
 layout: post
 title: "Announcing Code Health Guardian: The Old-New Role of Human Programmers in the AI Era"
 date: 2024-10-30 00:00:00 +0
+author: Artie Shevchenko
 categories: [Book Launch]
 ---
 
