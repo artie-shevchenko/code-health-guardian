@@ -48,7 +48,7 @@ Artie Shevchenko
 
 ## Try it out
 
-You can find a **sample chapter [here](https://github.com/artie-shevchenko/code-health-guardian/blob/main/book/CodeHealthGuardian_SampleChapter.pdf)**. The book is [available on Amazon](https://amzn.to/3Uva6uK) starting today! The Kindle version is in review and should be available within 24 hours. If you care a lot about the look and feel, it may be worth waiting for the hardcover version (ETA by the end of November). I was thinking about doing an audiobook as well, but there's a lot of visual content there, so it would be challenging. But why not? Please upvote [this ticket](https://github.com/artie-shevchenko/code-health-guardian/issues/1) if you think it’s a good idea.
+You can find a **[sample chapter here](https://github.com/artie-shevchenko/code-health-guardian/blob/main/book/CodeHealthGuardian_SampleChapter.pdf)**. The book is [available on Amazon](https://amzn.to/3Uva6uK) starting today! The Kindle version is in review and should be available within 24 hours. If you care a lot about the look and feel, it may be worth waiting for the hardcover version (ETA by the end of November). I was thinking about doing an audiobook as well, but there's a lot of visual content there, so it would be challenging. But why not? Please upvote [this ticket](https://github.com/artie-shevchenko/code-health-guardian/issues/1) if you think it’s a good idea.
 
 ## Share your thoughts
 
