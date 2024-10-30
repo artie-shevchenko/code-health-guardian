@@ -82,3 +82,69 @@ Finally, if you enjoy the book please [leave a review](https://amzn.to/3YIuzyL)!
 
   </small>
 </div>
+
+
+<!-- Include Font Awesome for icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+<div class="social-share">
+    <h3>Share this post:</h3>
+    <a href="#" id="twitter-share" class="share-button twitter" aria-label="Share on Twitter">
+        <i class="fab fa-twitter"></i> Twitter
+    </a>
+    <a href="#" id="linkedin-share" class="share-button linkedin" aria-label="Share on LinkedIn">
+        <i class="fab fa-linkedin"></i> LinkedIn
+    </a>
+    <a href="#" id="reddit-share" class="share-button reddit" aria-label="Share on Reddit">
+        <i class="fab fa-reddit"></i> Reddit
+    </a>
+</div>
+
+<style>
+    .social-share {
+        margin: 20px 0;
+        padding: 10px;
+        text-align: center;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        background-color: #f9f9f9;
+    }
+    .social-share h3 {
+        margin-bottom: 10px;
+        font-size: 1.5em;
+    }
+    .share-button {
+        display: inline-block;
+        margin: 5px;
+        padding: 10px 15px;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+        font-size: 1em;
+        transition: background-color 0.3s;
+    }
+    .twitter {
+        background-color: #1DA1F2;
+    }
+    .linkedin {
+        background-color: #0077B5;
+    }
+    .reddit {
+        background-color: #FF4500;
+    }
+    .share-button:hover {
+        filter: brightness(0.9);
+    }
+</style>
+
+<script>
+    // Variables
+    const postUrl = window.location.href; // Current page URL
+    const postTitle = encodeURIComponent(document.title); // Title of the current page
+    const postTags = encodeURIComponent("codehealth"); // Replace with actual tags
+
+    // Share links
+    document.getElementById('twitter-share').href = `https://twitter.com/intent/tweet?url=${postUrl}&text=${postTitle}&hashtags=${postTags}`;
+    document.getElementById('linkedin-share').href = `https://www.linkedin.com/shareArticle?mini=true&url=${postUrl}`;
+    document.getElementById('reddit-share').href = `https://reddit.com/submit?url=${postUrl}&title=${postTitle}`;
+</script>
