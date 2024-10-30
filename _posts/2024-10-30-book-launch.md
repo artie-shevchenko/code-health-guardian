@@ -139,7 +139,7 @@ Finally, if you enjoy the book please [leave a review](https://amzn.to/3YIuzyL)!
 
 <script>
     // Variables
-    const postUrl = window.location.href; // Current page URL
+    const postUrl = encodeURI(window.location.href); // Current page URL
     const postTitle = encodeURIComponent(document.title); // Title of the current page
     const postTags = encodeURIComponent("codehealth"); // Replace with actual tags
 
